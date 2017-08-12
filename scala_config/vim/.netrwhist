@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/dd/proj/netmap/release/netmap-11.2/sys/dev/netmap'
